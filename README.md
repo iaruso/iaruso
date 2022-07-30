@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello👋
 
-<!--
-**iaruso/iaruso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Front-end Web Developer** working and studying in Porto, Portugal 🇵🇹.
 
-Here are some ideas to get you started:
+##### NOW
+- 👨‍💻 Working as a Web Developer at [Strongstep - Innovation in Software Quality](https://strongstep.pt/en/)
+- ✍️ Studying for a master's degree in [IT Engineering - Graphics Systems and Multimedia](https://www.ipp.pt/education/courses/master/isep/201)
+- 🌱 Currently learning user experience and interface best practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### BIO
+- 🎓 Graduate in [Web Information Systems and Technologies](https://www.esmad.ipp.pt/courses/degree/663)
+- ⚙️ Can't work without these ```HTML``` ```CSS``` ```JavaScript``` ```jQuery```
+- 🧰 Frequently use this tools ```VSCode``` ```Figma``` ```Adobe Illustrator```
+- 💻 Worked with ```Rails``` and ```Vue```
+- 🤔 Always looking for something new ...
+- 🌞 Born in Grodno, Belarus 🇧🇾
+- 🌍 Português | English | Русский
+- 📫 Reach me: iaruso.me@gmail.com
