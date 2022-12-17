@@ -1,9 +1,8 @@
 ### Hello👋
 
-I'm a **Front-end Web Developer** working and studying in Porto, Portugal 🇵🇹.
+I'm a **Front-end Web Developer** working in Porto, Portugal 🇵🇹.
 
 ##### NOW
-- ✍️ Studying for a master's degree in [IT Engineering - Graphics Systems and Multimedia](https://www.ipp.pt/education/courses/master/isep/201)
 - 👨‍💻 Working as a Web Developer at [Strongstep - Innovation in Software Quality](https://strongstep.pt/en/)
 - 📖 Studying [Three JS Journey](https://threejs-journey.com/) by [Bruno Simon](https://github.com/brunosimon)
 - 🌱 Currently learning user experience and interface best practices
