@@ -18,7 +18,7 @@
 [<img src="https://github.com/iaruso/iaruso/blob/main/svg/expressjs.svg" title="Express.js" alt="Express.js">](https://expressjs.com/)
 [<img src="https://github.com/iaruso/iaruso/blob/main/svg/nodejs.svg" title="Node.js" alt="Node.js">](https://nodejs.org/)
 [<img src="https://github.com/iaruso/iaruso/blob/main/svg/git.svg" title="Git" alt="Git">](https://git-scm.com/)
-[<img src="https://github.com/iaruso/iaruso/blob/main/svg/vite.svg" title="Vite" alt="Vite">](https://vitejs.dev/)
+[<img src="https://github.com/iaruso/iaruso/blob/main/svg/vitejs.svg" title="Vite" alt="Vite">](https://vitejs.dev/)
 [<img src="https://github.com/iaruso/iaruso/blob/main/svg/tailwindcss.svg" title="TailwindCSS" alt="TailwindCSS">](https://tailwindcss.com/)
 [<img src="https://github.com/iaruso/iaruso/blob/main/svg/sass.svg" title="Sass" alt="Sass">](https://sass-lang.com/)
 [<img src="https://github.com/iaruso/iaruso/blob/main/svg/vscode.svg" title="Visual Studio Code" alt="Visual Studio Code">](https://code.visualstudio.com/)
