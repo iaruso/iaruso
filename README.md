@@ -13,17 +13,9 @@
 [<img src="https://github.com/iaruso/iaruso/blob/main/svg/typescript.svg" title="Typescript" alt="Typescript">](https://www.typescriptlang.org/)
 [<img src="https://github.com/iaruso/iaruso/blob/main/svg/jquery.svg" title="jQuery" alt="jQuery">](https://jquery.com/)
 [<img src="https://github.com/iaruso/iaruso/blob/main/svg/gsap.svg" title="GSAP" alt="GSAP">](https://gsap.com/)
-[<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/iaruso/iaruso/blob/main/svg/threejs-light.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/iaruso/iaruso/blob/main/svg/threejs.svg">
-  <img src="https://github.com/iaruso/iaruso/blob/main/svg/threejs-light.svg" title="Three.js" alt="Three.js">
-</picture>](https://threejs.org/)
+[<img src="https://github.com/iaruso/iaruso/blob/main/svg/threejs.svg" title="Three.js" alt="Three.js">](https://threejs.org/)
 [<img src="https://github.com/iaruso/iaruso/blob/main/svg/mongodb.svg" title="MongoDB" alt="MongoDB">](https://www.mongodb.com/)
-[<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/iaruso/iaruso/blob/main/svg/expressjs-light.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/iaruso/iaruso/blob/main/svg/expressjs.svg">
-  <img src="https://github.com/iaruso/iaruso/blob/main/svg/expressjs-light.svg" title="Express.js" alt="Express.js">
-</picture>](https://expressjs.com/)
+[<img src="https://github.com/iaruso/iaruso/blob/main/svg/expressjs.svg" title="Express.js" alt="Express.js">](https://expressjs.com/)
 [<img src="https://github.com/iaruso/iaruso/blob/main/svg/nodejs.svg" title="Node.js" alt="Node.js">](https://nodejs.org/)
 [<img src="https://github.com/iaruso/iaruso/blob/main/svg/git.svg" title="Git" alt="Git">](https://git-scm.com/)
 [<img src="https://github.com/iaruso/iaruso/blob/main/svg/vitejs.svg" title="Vite" alt="Vite">](https://vitejs.dev/)
