@@ -1,8 +1,11 @@
 ## Hi there 👋
-#### I'm a frontend developer 💻 with 2+ years of experience and a passion for web design and interfaces.
-#### I ❤️ creating websites, from prototyping to implementation.
-#### I'm currently working from 🏠 and 🎓 for a master's degree at the same time.
-#### While I 👨‍💻 I listen 🎵, when not, I'm either watching 📺 or playing 🎮.
+I'm a frontend developer 💻 with 2+ years of experience and a passion for web design and interfaces.
+
+I ❤️ creating websites, from prototyping to implementation.
+
+I'm currently working from 🏠 and 🎓 for a master's degree at the same time.
+
+While I 👨‍💻 I listen 🎵, when not, I'm either watching 📺 or playing 🎮.
 
 ### Technologies
 
