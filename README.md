@@ -1,2 +1,1 @@
-## Hi there 👋
-Currently I'm 🧑‍🍳 something ...
+Nothing here right now
